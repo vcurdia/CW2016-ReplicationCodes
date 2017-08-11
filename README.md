@@ -1,6 +1,6 @@
-# CW2016-CreditFrictionsOptMonPol
+# CW2016-ReplicationCodes
 
-[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/CW2016-CreditFrictionsOptMonPol/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/CW2016-ReplicationCodes/blob/master/LICENSE)
 
 These codes reproduce the results in:
 
@@ -8,10 +8,10 @@ These codes reproduce the results in:
 [The Central-Bank Balance Sheet as an Instrument of Monetary Policy](http://www.sciencedirect.com/science/article/pii/S0304393216301052)  
 *Journal of Monetary Economics*, 84, pp. 30-65.
 
-[Technical Appendix](https://github.com/vcurdia/CW2016-CreditFrictionsOptMonPol/blob/master/CW2016_Appendix.pdf)
+[Technical Appendix](https://github.com/vcurdia/CW2016-ReplicationCodes/blob/master/CW2016_Appendix.pdf)
 
 These replication codes are available online at:  
-https://github.com/vcurdia/CW2016-CreditFrictionsOptMonPol
+https://github.com/vcurdia/CW2016-ReplicationCodes
 
 
 # Requirements
